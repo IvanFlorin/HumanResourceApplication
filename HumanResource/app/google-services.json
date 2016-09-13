@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "114162260329",
+    "firebase_url": "https://humanresourcemanagement-ce0b5.firebaseio.com",
+    "project_id": "humanresourcemanagement-ce0b5",
+    "storage_bucket": "humanresourcemanagement-ce0b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114162260329:android:6565e415bc43fbac",
+        "android_client_info": {
+          "package_name": "com.salonishrestha.human.humanresource"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114162260329-bf0b4v2u80p43gctjtppf288uu43546t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuB76bFUqU94crruiG5azG2e40NT1b5dU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
